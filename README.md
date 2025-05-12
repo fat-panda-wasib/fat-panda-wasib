@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my information are available at [https://sites.google.com/view/ahsanul-karim/home](https://sites.google.com/view/ahsanul-karim/home)
 
-- 📫 How to reach me **fatpandaepic@gmail.com**
+- 📫 How to reach me **ahsanulkarim5690@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
