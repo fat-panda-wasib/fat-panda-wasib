@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fat-panda-wasib&label=Profile%20views&color=0e75b6&style=flat" alt="fat-panda-wasib" /> </p>
 
-- 🌱 I’m currently learning **UI/UX Design.**
+- 🌱 I’m currently learning **Database Design**
 
 - 👨‍💻 All of my information are available at [https://sites.google.com/view/ahsanul-karim/home](https://sites.google.com/view/ahsanul-karim/home)
 
